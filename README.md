@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a Software Engineer passionate about software design and ux
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ronid1&theme=transparent&custom_title=Stats&hide_rank=true&show_icons=true&include_all_commits=true&hide=stars,contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronid1&theme=transparent&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5" />
+</a>
+
 <!--
 **Ronid1/Ronid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
