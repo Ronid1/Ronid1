@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi I'm Roni 👋
 
-I'm a Software Engineer passionate about software design and ux
+- A Full-Stack Software Engineer with a background in design and project management
+- I am passionate about both software design and visual design, creating beautiful and intuitive user experiences through well-thought-out code
+- I view software development as the ultimate mesh between my creative and technical skills
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
